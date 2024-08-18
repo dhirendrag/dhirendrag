@@ -2,7 +2,7 @@
    
 ### Hi there 👋
 
-I am Dhirendra Gundre currently pursuing computer engineering at
+I am Dhirendra Gundre currently pursuing mechanical engineering at
 <a href="https://vit.edu/">Vishwakarma Institute of Technology , Pune.</a>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dhirendra-gundre-0702332ba/) 
